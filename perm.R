@@ -1,4 +1,6 @@
 #This should work for any set of characters
+#published app: https://nina-mortensen.shinyapps.io/D6_project/
+
 library(stringr)
 Perm.apply <- function(x,perm){
   #If x is not in the permutation, nothing happens
